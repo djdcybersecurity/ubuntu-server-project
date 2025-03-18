@@ -184,5 +184,4 @@ Now you have a **complete reference for Ubuntu network commands**! 🚀
 3. **Paste the text** into the terminal.
 4. **Save the file** (`CTRL+X`, `Y`, `Enter`).
 
-Now you have a **complete markdown file** with **all network configuration commands** for your Ubuntu Server on the **PowerEdge R720**.
 
