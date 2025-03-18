@@ -1,4 +1,4 @@
-Here is the full **Markdown file** in one single text box for you to **copy and paste** directly:
+
 
 ```markdown
 # 🌐 Ubuntu Server Network Configuration Commands (PowerEdge R720)
